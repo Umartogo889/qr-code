@@ -1,0 +1,78 @@
+.navbar {
+    top: 50px;
+    left: 125px;
+
+    position: relative;
+    width: 160vh;
+    height: 80vh;
+    box-shadow: 2px 0px 30px #b5d1d18e;
+    background-color: #b5d1d18e;
+    border-radius: 5px;
+}
+
+.card {
+    border-radius: 10px;
+    top: 70px;
+    left: 400px;
+    position: relative;
+    background-color: white;
+    width: 225px;
+    height: 55vh;
+    text-align: center;
+}
+
+.images {
+    border-radius: 10px;
+    top: 11px;
+    left: 11px;
+    position: relative;
+    width: 200px;
+    height: 31vh;
+    background-color: rgba(56, 130, 228, 0.856);
+}
+
+.images img {
+    top: 30px;
+    left: 30px;
+    position: absolute;
+    width: 140px;
+    height: 140px;
+}
+
+.text {
+    width: 180px;
+    text-align: center;
+    justify-content: center;
+    font-family: sans-serif;
+}
+
+.text h5 {
+    font-size: 15px;
+    margin-left: 15px;
+    width: 190px;
+
+}
+
+.text span {
+    font-size: 12px;
+    display: inline-block;
+    margin-left: 18px;
+    width: 190px;
+    color: rgba(0, 0, 0, 0.582);
+}
+.span{
+   row-gap: 6px;
+}
+.span span {
+    width: 15px;
+    height: 15px;
+    border-radius: 99em;
+    border-radius: 1px solid black;
+    background-color: blue;
+}
+.backround-images{
+    height: 100vh;
+    width: 200vh;
+    background-repeat: no-repeat;
+    background-image: url(https://w.forfun.com/fetch/ca/caf35413ae8682027d79bf57f361c5f2.jpeg);
+}
